@@ -3,3 +3,4 @@
 [2025-11-16 18:14:30 +0100] docs: update API documentation and usage guidelines (ref: 86fc6211, by: Ndemafia)
 [2025-11-25 13:33:56 +0100] docs: update API documentation and usage guidelines (ref: 180ae18a, by: Ndemafia)
 [2025-12-12 16:51:24 +0100] docs: update API documentation and usage guidelines (ref: 47acbbd7, by: Kelvin Fomukong Siweh Nkweche)
+[2025-12-24 10:33:10 +0100] docs: update API documentation and usage guidelines (ref: 2e04c50f, by: Ndemafia)
