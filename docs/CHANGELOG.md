@@ -15,3 +15,4 @@
 [2026-04-03 12:16:34 +0100] docs: update API documentation and usage guidelines (ref: ea92c888, by: Kelvin Fomukong Siweh Nkweche)
 [2026-04-11 15:22:27 +0100] docs: update API documentation and usage guidelines (ref: 6c9f21ac, by: Kelvin Fomukong Siweh Nkweche)
 [2026-05-09 19:10:44 +0100] docs: update API documentation and usage guidelines (ref: b343ebfd, by: Kelvin Fomukong Siweh Nkweche)
+[2026-06-08 22:28:14 +0100] docs: update API documentation and usage guidelines (ref: 01788cd1, by: Ndemafia)
