@@ -23,3 +23,6 @@ $containerBuilder->addDefinitions([
 ]);
 
 return $containerBuilder->build();
+
+
+// Timing registered
