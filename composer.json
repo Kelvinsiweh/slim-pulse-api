@@ -1,0 +1,32 @@
+{
+  "name": "kelvin/slim-pulse-api",
+  "description": "High-throughput modern REST API microservice crafted with PHP 8.2+ and Slim 4",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kelvin Fomukong Siweh Nkweche",
+      "email": "kelvinsiweh19@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.2",
+    "slim/slim": "^4.13",
+    "slim/psr7": "^1.6",
+    "php-di/php-di": "^7.0",
+    "monolog/monolog": "^3.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "App\\Tests\\": "tests/"
+    }
+  }
+}
